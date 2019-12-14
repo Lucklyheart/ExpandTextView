@@ -35,7 +35,7 @@
 	} 
 #### Step 2. Add the dependency 
 	dependencies {
-	       implementation 'com.github.Lucklyheart:Utils:v1.0.5'
+	      implementation 'com.github.Lucklyheart:ExpandTextView:v1.0.1'
 	} 
 ### Final
 	欢迎指导和建议！！！
